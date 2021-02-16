@@ -1,2 +1,6 @@
-# hello-world
-16.02.2021
+#include <stdio.h>
+
+int main(void)
+{
+printf ("hello, world")
+}
